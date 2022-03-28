@@ -50,5 +50,7 @@ Madalena Brito - Estudante de web dev full stack na Resilia Educação
 
  Emmanuel Galli - Estudante de web dev full stack na Resilia Educação
 
+ Ana - Estudante de web dev full stack na Resilia Educação
+
   
 
