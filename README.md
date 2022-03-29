@@ -52,5 +52,7 @@ Madalena Brito - Estudante de web dev full stack na Resilia Educação
 
  Ana - Estudante de web dev full stack na Resilia Educação
 
+ Gabriela Gentile - Estudante de web dev full stack na Resilia Educação
+
   
 
